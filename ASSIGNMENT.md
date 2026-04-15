@@ -29,10 +29,9 @@ Pay special attention to Section 3 (Troubleshooting Log) — circuits almost alw
 
 ## Submission Instructions
 
-1. Create a `week-02/` folder in your GitHub Classroom repo
-2. Upload video/photos and circuit diagram
-3. Create `week-02/reflection.md`
-4. Commit and submit repo URL on Canvas
+1. Upload video/photos and circuit diagram
+2. Create `reflection.md`
+3. Commit and submit repo URL on Canvas
 
 ---
 
@@ -43,5 +42,5 @@ Pay special attention to Section 3 (Troubleshooting Log) — circuits almost alw
 | Working eye movement documented | 2 |
 | Circuit diagram included | 1 |
 | Reflection covers all 4 sections (~300 words) | 1.5 |
-| Files organized in `/week-02/` | 0.5 |
+
 | **Total** | **5** |
